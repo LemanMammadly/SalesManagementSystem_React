@@ -1,0 +1,25 @@
+.sidebarmenu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 34px 30px 219px;
+    gap: 74px;
+    
+    position: absolute;
+    width: 97px;
+    height: 937px;
+    left: 30px;
+    top: 32px;
+    
+    background: #266AEB;
+    border-radius: 16px;
+}
+
+
+.sidebarmenubottom{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 34px;
+}

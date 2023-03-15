@@ -1,0 +1,27 @@
+.home{
+    padding: 2rem;
+}
+
+.home .contenthometop {
+    gap: 40px;
+}
+
+.home .contenthometop .pashal{
+    border: 1px solid #C5C9D4;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.home .contenthometop .pashalogo{
+    gap: 10px;
+}
+
+.home .contenthometop img{
+    width: 30px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.home .contenthomebottom{
+    margin-top: 60px;
+}
